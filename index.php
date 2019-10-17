@@ -6,71 +6,82 @@
 
         <style type="text/css">
             body {
-                margin: 0;
-                padding: 0;
-                direction: ltr;
-                font-family: tahoma;
-                background: #efefef;
+            margin:0;
+            padding:0;
+            direction:ltr;
+            font-family:tahoma;
+            background:#efefef
             }
+
             .container {
-                width: 70%;
-                margin: 50px auto;
-                background: #ffffff;
-                padding: 20px;
-                border-radius: 10px;
+            width:70%;
+            margin:50px auto;
+            background:#fff;
+            padding:20px;
+            border-radius:10px
             }
+
             .container h1 {
-                font-size: 14px;
-                padding-bottom: 20px;
-                border-bottom: 1px dashed #000000;
+            font-size:14px;
+            padding-bottom:20px;
+            border-bottom:1px dashed #000
             }
+
             .container textarea {
-                width: 100%;
-                height:200px;
-                resize: none;
-                padding: 10px;
-                border:1px solid #efefef;
-                border-radius: 15px;
-                outline: none;
+            width:100%;
+            height:200px;
+            resize:none;
+            padding:10px;
+            border:1px solid #efefef;
+            border-radius:15px;
+            outline:none
             }
+
             .container input[type="submit"] {
-                float: right;
-                border:1px solid #efefef;
-                border-radius: 15px;
-                cursor: pointer;
-                padding: 5px 20px;
+            float:right;
+            border:1px solid #efefef;
+            border-radius:15px;
+            cursor:pointer;
+            padding:5px 20px
             }
+
             .container .clearfix {
-                clear: both !important;
+            clear:both!important
             }
+
             .container .post-center {
-                text-align: center;
+            text-align:center
             }
+
             .container p {
-                font-size: 13px;
+            font-size:13px
             }
+
             .container label {
-                font-weight: bolder;
+            font-weight:bolder
             }
+
             .container .result {
-                line-height: 30px;
-                text-align: justify;
-                font-size: 12px;
-                padding: 15px;
-                border: 1px solid #efefef;
-                border-left: 15px solid #efefef;
-                border-radius: 15px;
+            line-height:30px;
+            text-align:justify;
+            font-size:12px;
+            padding:15px;
+            border:1px solid #efefef;
+            border-left:15px solid #efefef;
+            border-radius:15px
             }
+
             .container .hidden {
-                visibility: hidden;
-                display: none;
+            visibility:hidden;
+            display:none
             }
+
             .container a {
-                color: #000;
-                text-decoration: none;
-                font-weight: bolder;
-                letter-spacing: 3px;
-                font-size: 9px;
+            color:#000;
+            text-decoration:none;
+            font-weight:bolder;
+            letter-spacing:3px;
+            font-size:9px
             }
         </style>
     </head>
